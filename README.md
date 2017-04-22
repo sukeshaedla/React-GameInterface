@@ -1,2 +1,1 @@
-# React-GameInterface
-Game Interface using React
+Game Interface for React
